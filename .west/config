@@ -1,0 +1,10 @@
+[manifest]
+path = nrf
+file = west.yml
+
+[zephyr]
+base = zephyr
+
+[commands]
+allow_extensions = true
+
